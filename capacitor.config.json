@@ -1,0 +1,13 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "sopApplication",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"plugins":{
+		"GoogleAuth": {
+			"serverClientId": "712365729302-s6f34bu23v6jgno7iua4g5durdmn7hqm.apps.googleusercontent.com",
+			"scopes": ["profile"," email"],
+			"forceCodeForRefreshToken": true
+		  }
+	}
+}

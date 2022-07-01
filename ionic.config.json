@@ -1,0 +1,7 @@
+{
+  "name": "sopApplication",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
