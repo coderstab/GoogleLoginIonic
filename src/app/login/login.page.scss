@@ -1,0 +1,31 @@
+
+.appBody{
+    --background:  url("../../assets/img/login_bg.png")  0 0/100% 100% no-repeat;
+    --background-repeat: no-repeat;
+    --background-size: cover;  
+    }
+    .logoDiv{
+        --background:  url("../../assets/img/sop_logo.png")  0 0/100% 100% no-repeat;
+        --background-repeat: no-repeat;
+        --background-size: cover;
+    }
+    .logoDiv {
+        display: flex;
+        justify-content: center;
+    }
+    .logoDiv img
+    {
+        margin-top: 41% !important;
+        width: 50%;
+    }
+    .loginBtnU {
+        display: flex;
+        justify-content: center;
+    }
+    .btncolor {
+        --background: #fff;
+        color: rgb(18, 18, 18);
+        bottom: 125px !important;
+        width: 250px;
+        position: absolute;
+      }
